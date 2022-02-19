@@ -1,5 +1,2 @@
-a=1
-b=5
-c='Hello Raghuram'
-print(a+b)
-print(c)
+a=[1,2,3,4,5,6,7,8,9]
+print(*a)
